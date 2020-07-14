@@ -25,6 +25,6 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-### My Great Heading {id: custom-id}
+[Go to Heading](#markdown-cheat-sheet)
 
 - [x] Write the press release
