@@ -34,5 +34,5 @@ Here's a sentence with a footnote. [^1]
 - [x] Write the press release
 
 ### FONT
-<h3>FONT</h2>
+<h3>FONT</h3>
 
