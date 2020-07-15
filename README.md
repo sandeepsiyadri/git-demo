@@ -1,4 +1,4 @@
-# MARKDOWN Cheat Sheet
+# 1 **MARKDOWN** Cheat Sheet
 
 **bold text**
 
@@ -25,6 +25,6 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-[Go to Heading](#markdown-cheat-sheet)
+[Go to Heading](#1-markdown-cheat-sheet)
 
 - [x] Write the press release
