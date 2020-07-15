@@ -3,6 +3,7 @@
 
 <h2 id="heading"> 1. Document </h2>
 
+
   * **bold text**
 
 *italicized text*
@@ -13,7 +14,7 @@
 2. Second item
 3. Third item
 
-- First item
+- First item &#9745;
 - Second item
 - Third item
 
